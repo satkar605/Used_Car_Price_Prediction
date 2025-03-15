@@ -37,8 +37,21 @@ The goal is to analyze key factors affecting **used car prices** and evaluate th
 
 ## Exploratory Data Analysis (EDA)
 - **Distribution of Car Models**: Bar chart to visualize model frequency.
+- ![image](https://github.com/user-attachments/assets/4a32435e-6d8f-4b38-a99e-da76584ba83c)
+
 - **Boxplots** for price, mileage, tax, mpg, and engine size.
+- ![image](https://github.com/user-attachments/assets/810304b5-dcd4-4531-bbc2-b6a1eaed80eb)
+![image](https://github.com/user-attachments/assets/15bb0145-1982-41d7-87ba-bf58b40defe6)
+![image](https://github.com/user-attachments/assets/4e3a0280-ef7b-46c7-9daf-166e9c237406)
+![image](https://github.com/user-attachments/assets/d8d19052-8091-4273-863f-3ac0a24ac071)
+![image](https://github.com/user-attachments/assets/603b7e88-8f2b-4ce9-8d97-cd9d9e0e1c9a)
+![image](https://github.com/user-attachments/assets/079db1ba-b305-4b3d-b9b2-2dcee6c8c99b)
+
+
+
+
 - **Correlation Analysis** to identify relationships between numerical variables.
+![image](https://github.com/user-attachments/assets/52a15c87-9fa5-4478-b949-a15d11af4081)
 
 ## Regression Model
 - **Model Formula**:
@@ -53,10 +66,10 @@ The goal is to analyze key factors affecting **used car prices** and evaluate th
 ## Model Performance Metrics
 | Metric | Value |
 |--------|------|
-| **MAE** (Mean Absolute Error) | TBD |
+| **MAE** (Mean Absolute Error) | 2056.97 |
 | **MSE** (Mean Squared Error) | TBD |
-| **RMSE** (Root Mean Squared Error) | TBD |
-| **R-squared** | TBD |
+| **RMSE** (Root Mean Squared Error) | 3067.83 |
+| **R-squared** | 0.9374 |
 
 ## Files in This Repository
 ```
