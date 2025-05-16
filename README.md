@@ -67,7 +67,6 @@ The goal is to analyze key factors affecting **used car prices** and evaluate th
 | Metric | Value |
 |--------|------|
 | **MAE** (Mean Absolute Error) | 2056.97 |
-| **MSE** (Mean Squared Error) | TBD |
 | **RMSE** (Root Mean Squared Error) | 3067.83 |
 | **R-squared** | 0.9374 |
 
